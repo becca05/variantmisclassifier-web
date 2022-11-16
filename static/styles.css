@@ -7,6 +7,9 @@ body {
   text-align: center;
 }
 
+.sub {
+  font-size: 0.4em;
+}
 
 .secondary-background {
   background-color: snow;
@@ -84,5 +87,4 @@ footer {
   font-size: 16px;
   padding: 20px;
 }
-
 
