@@ -14,3 +14,9 @@ def index():
 def about():
     if request.method == "POST" or request.method == "GET":
         return render_template("about.html")
+@app.route("/pairwiseOverlap", methods=["GET", "POST"])
+def pairwiseOverlap():
+    if request.method == "POST" or request.method == "GET":
+        return render_template("pairwiseOverlap.html")
+
+    
