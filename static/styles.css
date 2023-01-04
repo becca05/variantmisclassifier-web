@@ -81,6 +81,14 @@ nav .navbar-brand
   margin-bottom: 2px;
 }
 
+.space {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.space2 {
+  padding-bottom: 50px;
+}
+
 
 /* Footer */
 footer {
