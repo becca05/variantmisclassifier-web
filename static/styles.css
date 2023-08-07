@@ -7,8 +7,12 @@ body {
   text-align: center;
 }
 
+.abstract {
+  font-size: 1.2em;
+}
+
 .sub {
-  font-size: 1.0em;
+  font-size: 0.8em;
   text-align: left;
 }
 
