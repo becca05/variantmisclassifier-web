@@ -8,7 +8,8 @@ body {
 }
 
 .sub {
-  font-size: 0.4em;
+  font-size: 1.0em;
+  text-align: left;
 }
 
 .secondary-background {
